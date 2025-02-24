@@ -41,7 +41,7 @@ Este é um projeto desenvolvido como parte do **Challenge Lógica de Programaç�
 
 ### **1️⃣ Clonar o Repositório**
 ```sh
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone https://github.com/Juhz1k4/amigo-secreto.git
 2️⃣ Configurar o Backend
 Acesse a pasta do backend:
 
