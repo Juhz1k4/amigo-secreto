@@ -40,30 +40,30 @@ Este é um projeto desenvolvido como parte do **Challenge Lógica de Programaç�
 ### **1️⃣ Clonar o Repositório**
 ```
 git clone https://github.com/Juhz1k4/amigo-secreto.git
+
 2️⃣ Configurar o Backend
+
 Acesse a pasta do backend:
-
 cd amigo-secreto/backend
+
 Instale as dependências:
-
 npm install
-Criar o arquivo .env com as credenciais do MongoDB e Twilio:
 
+Criar o arquivo .env com as credenciais do MongoDB e Twilio:
 PORT=5000
 MONGO_URI=mongodb+srv://seu_usuario:senha@cluster.mongodb.net/amigo-secreto
 JWT_SECRET=seu_token_secreto
 
 Iniciar o servidor:
-
 node server.js
 ou com nodemon:
 
 npm install -g nodemon
 nodemon server.js
+
 3️⃣ Configurar o Frontend
 
 Acesse a pasta do frontend:
-
 cd amigo-secreto/frontend
 Abra o arquivo index.html no navegador.
 
